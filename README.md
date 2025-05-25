@@ -23,7 +23,7 @@ Combining civil engineering insight with the power of software automation, Build
 
 <p align="center">
 Launch the software: <br/>
-<img src="https://imgur.com/RV5RWXc.png" height="40%" width="40%" alt="software welcome page"/>
+<img src="https://imgur.com/RV5RWXc.png" height="20%" width="20%" alt="software welcome page"/>
 <br />
 <br />
 Signin page:  <br/>
