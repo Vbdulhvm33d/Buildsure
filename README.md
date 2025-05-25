@@ -22,20 +22,24 @@ Combining civil engineering insight with the power of software automation, Build
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the software: <br/>
+Landing page: <br/>
 <img src="https://imgur.com/RV5RWXc.png" height="20%" width="20%" alt="software welcome page"/>
 <br />
 <br />
-Signin page:  <br/>
-<img src="https://imgur.com/a/uEgeP2n.png" height="80%" width="80%" alt="sign in page"/>
+Sign-in page:  <br/>
+<img src="https://imgur.com/9djekOI.png" height="20%" width="20%" alt="sign in page"/>
 <br />
 <br />
 Homepage: <br/>
-<img src="" height="40%" width="40%" alt="home page"/>
+<img src="https://imgur.com/we9dPzw.png" height="20%" width="20%" alt="home page"/>
 <br />
 <br />
 Virtual tour:  <br/>
-<img src="" height="80%" width="80%" alt="virtual monitoring page"/>
+<img src="https://imgur.com/U7k5Mvn.png" height="20%" width="20%" alt="virtual monitoring page"/>
+<br />
+<br />
+Project Progress tracker: <br/>
+<img src="https://imgur.com/ZE2zB0x.png" height="20%" width="20%" alt="project tracking page"/>
 <br />
 <br />
 
