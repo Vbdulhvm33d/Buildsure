@@ -27,15 +27,15 @@ Launch the software: <br/>
 <br />
 <br />
 Signin page:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="sign in page"/>
 <br />
 <br />
 Homepage: <br/>
-<img src="https://ibb.co/gZgR5s8w.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="" height="40%" width="40%" alt="home page"/>
 <br />
 <br />
 Virtual tour:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="virtual monitoring page"/>
 <br />
 <br />
 
